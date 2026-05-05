@@ -2,4 +2,4 @@ flask
 flask-cors
 numpy
 Pillow
-tensorflow-cpu==2.10.0
+gunicorn
